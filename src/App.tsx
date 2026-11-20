@@ -342,12 +342,14 @@ function App() {
             Agent 系统 · 智能体协同 · LLM 工程实践 — 有想法可以聊。
           </p>
           <a
-            href="mailto:d2281886620@iCloud.com"
+            href="https://github.com/longmao623"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block font-mono text-lg md:text-2xl font-bold border-4 border-punk-black px-8 py-4 hover:bg-punk-black hover:text-punk-red transition-all duration-300"
           >
-            d2281886620@iCloud.com
+            github.com/longmao623
           </a>
-          <p className="font-mono text-xs mt-12 text-punk-black/70">上海 · 中国</p>
+          <p className="font-mono text-xs mt-12 text-punk-black/70">西安 · 中国</p>
         </div>
       </section>
 
